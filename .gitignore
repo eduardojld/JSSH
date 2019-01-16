@@ -1,0 +1,9 @@
+*.class
+*.properties
+.project
+.fatjar
+.classpath
+.settings
+.schemas
+META-INF
+.DS_Store
